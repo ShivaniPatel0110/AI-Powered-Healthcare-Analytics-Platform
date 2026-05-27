@@ -100,13 +100,13 @@ Hospitals face:
 ## 📸 Project Screenshots
 
 ### Dashboard
-![Dashboard](C:\Users\LENOVO\Desktop\healthcare-analytics-project\screenshots\powerbi.png)
+![Dashboard](healthcare-analytics-project/screenshots/powerbi.png)
 
 ### Feature Importance
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](healthcare-analytics-project/screenshots/feature_importance.png)
 
 ### GenAI Output
-![GenAI Output](screenshots/genai_output.png)
+![GenAI Output](healthcare-analytics-project/screenshots/genai_output.png)
 
 ---
 
