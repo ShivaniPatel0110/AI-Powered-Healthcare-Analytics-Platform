@@ -28,12 +28,15 @@ Hospitals face:
 - Frequent patient readmissions  
 - Lack of actionable insights  
 
+---
+
 ### This project helps to:
 - Identify high-risk hospitals  
 - Understand key drivers of readmission  
 - Generate business-friendly insights  
 
 ---
+
 ## 💡 Why This Project Matters
 
 Hospital readmissions cost billions annually.  
@@ -42,6 +45,8 @@ This project demonstrates how combining **Data Analytics + Machine Learning + Ge
 - Predict high-risk patients early
 - Reduce operational costs
 - Improve healthcare decision-making
+
+---
 
 ## 🚀 Business Impact
 
