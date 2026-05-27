@@ -131,18 +131,20 @@ Automated explanation of high-risk hospitals for business users.
 
 ## ▶️ How to Run
 
+Follow these steps to run the project:
+
+1. Clone the repository
+2. Navigate to the project folder
+3. Open Jupyter Notebook
+4. Run the analysis file
+5. Explore the Power BI dashboard
+
+### 🔧 Commands
+
 ```bash
-# Clone repository
 git clone https://github.com/ShivaniPatel0110/AI-Powered-Healthcare-Analytics-Platform.git
+cd AI-Powered-Healthcare-Analytics-Platform
 
-# Open Jupyter Notebook
-Run healthcare_analysis.ipynb
-
-# Load dataset
-/data folder
-
-# Open Power BI Dashboard
-dashboard/powerbi.pbix
 ---
 
 ## 📂 Project Structure
