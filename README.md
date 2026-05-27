@@ -131,23 +131,16 @@ Automated explanation of high-risk hospitals for business users.
 
 ## ▶️ How to Run
 
-Follow these steps to run the project:
-
-1. Clone the repository
-2. Navigate to the project folder
-3. Open Jupyter Notebook
-4. Run the analysis file
-5. Explore the Power BI dashboard
-
-### 🔧 Commands
-
-```bash
-git clone https://github.com/ShivaniPatel0110/AI-Powered-Healthcare-Analytics-Platform.git
-cd AI-Powered-Healthcare-Analytics-Platform
+1. Open Jupyter Notebook  
+2. Run `healthcare_analysis.ipynb`  
+3. Load dataset from `/data`  
+4. View dashboard in Power BI  
 
 ---
 
 ## 📂 Project Structure
+
+
 healthcare-analytics-project/
 │
 ├── data/
@@ -157,9 +150,8 @@ healthcare-analytics-project/
 ├── screenshots/
 ├── README.md
 
-
-
 ---
+
 ## 📊 Key Results
 
 - Achieved **85% model accuracy** in predicting hospital readmissions
