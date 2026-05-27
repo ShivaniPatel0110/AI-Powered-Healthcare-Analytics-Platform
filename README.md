@@ -133,7 +133,7 @@ Automated explanation of high-risk hospitals for business users.
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/repo-name
+git clone https://github.com/ShivaniPatel0110/AI-Powered-Healthcare-Analytics-Platform.git
 
 # Open Jupyter Notebook
 Run healthcare_analysis.ipynb
