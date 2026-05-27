@@ -100,7 +100,7 @@ Hospitals face:
 ## 📸 Project Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/powerbi.png)
+![Dashboard](C:\Users\LENOVO\Desktop\healthcare-analytics-project\screenshots\powerbi.png)
 
 ### Feature Importance
 ![Feature Importance](screenshots/feature_importance.png)
